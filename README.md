@@ -20,6 +20,16 @@
 
 # 1. Vision-Action-Models
 
+### End-to-End VA Models
+
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| `GenAD` | [![arXiv](https://img.shields.io/badge/arXiv-2403.09630-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.09630)<br>GenAD: Generalized Predictive Model for Autonomous Driving | CVPR 2024 | - | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI)](https://github.com/OpenDriveLab/DriveAGI) |
+
+
+### World Models
+
 
 
 # 2. Vision-Language-Action-Models
