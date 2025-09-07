@@ -2,7 +2,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=worldbench&repo=awesome-vla4ad&label=Hello,%20Visitor%20&color=yellow&style=social)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat)](https://github.com/worldbench/awesome-vla4ad/pulls)
 
-# :sunglasses: Awesome Vision-Language-Action Models for Autonomous Driving
+# :sunglasses: Awesome VLA for Autonomous Driving
 
 
 ### Table of Contents
