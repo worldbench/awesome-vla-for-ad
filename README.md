@@ -4,11 +4,9 @@
 
 # :sunglasses: Awesome VLA for Autonomous Driving
 
-This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous driving. We ...
+This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous driving. 
 
-For more details, kindly refer to our [paper](https://worldbench.github.io/vla4ad.pdf). :rocket:
-
-
+<!--
 ### :books: Citation 
 
 If you find this work helpful for your research, please kindly consider citing our paper:
@@ -20,6 +18,7 @@ If you find this work helpful for your research, please kindly consider citing o
     year    = {2025},
 }
 ```
+-->
 
 
 ### Table of Contents
