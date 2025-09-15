@@ -36,7 +36,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ## 1. Vision-Action-Models
 
-### :one: End-to-End Models
+### :one: Action-Only Models
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
@@ -69,11 +69,10 @@ If you find this work helpful for your research, please kindly consider citing o
 | `SparseDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2405.19620-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.19620)<br>SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation | ICRA 2025 | - | [![GitHub](https://img.shields.io/github/stars/swc-17/SparseDrive)](https://github.com/swc-17/SparseDrive) |
 | `DiffusionDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2411.15139-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.15139)<br>DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving | CVPR 2025 | - |[![GitHub](https://img.shields.io/github/stars/hustvl/DiffusionDrive)](https://github.com/hustvl/DiffusionDrive) |
 | `Raw2Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16394-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.16394)<br>Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2) | arXiv 2025 | - | - |
-| `ETA` | [![arXiv](https://img.shields.io/badge/arXiv-2506.07725-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.07725)<br>ETA: Efficiency through Thinking Ahead, A Dual Approach to Self-Driving with Large Models | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/ETA)](https://github.com/OpenDriveLab/ETA) |
 | `RAD` | [![arXiv](https://img.shields.io/badge/arXiv-2502.13144-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.13144)<br>RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hgao-cv.github.io/RAD/) | - |
 
 
-### :two: World Models
+### :two: Perception-Action Models
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
@@ -104,6 +103,22 @@ If you find this work helpful for your research, please kindly consider citing o
 <!-- | `Vista` | [![arXiv](https://img.shields.io/badge/arXiv-2405.17398-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.17398)<br>Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability | NeurIPS 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://vista-demo.github.io/) | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/Vista)](https://github.com/OpenDriveLab/Vista) | -->
 
 <!-- | `COME` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13260-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13260)<br>COME: Adding Scene-Centric Forecasting Control to Occupancy World Model | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/synsin0/COME)](https://github.com/synsin0/COME)  | -->
+
+### :three: Image-Based World Models
+
+> :timer_clock: In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+
+### :four: Occupancy-Based World Models
+
+> :timer_clock: In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
 
 ## 2. Vision-Language-Action-Models
 
@@ -147,8 +162,9 @@ If you find this work helpful for your research, please kindly consider citing o
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
-| Model | Paper | Venue | Website | GitHub |
+| Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+||
 | `LMDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2312.07488-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.07488)<br>LMDrive: Closed-Loop End-to-End Driving with Large Language Models | CVPR 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hao-shao.com/projects/lmdrive.html) | [![GitHub](https://img.shields.io/github/stars/opendilab/LMDrive)](https://github.com/opendilab/LMDrive) |
 | `LINGO-2` | -<br>LINGO-2: Driving with Natural Language | 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://wayve.ai/thinking/lingo-2-driving-with-language/) | - |
 | `CoVLA-Agent` | [![arXiv](https://img.shields.io/badge/arXiv-2408.10845-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2408.10845)<br>CoVLA: Comprehensive Vision-Language-Action Dataset for Autonomous Driving | WACV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://turingmotors.github.io/covla-ad/) | - |
@@ -162,15 +178,46 @@ If you find this work helpful for your research, please kindly consider citing o
 | `S4-Driver` | [![arXiv](https://img.shields.io/badge/arXiv-2505.24139-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.24139)<br>S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Model with Spatio-Temporal Visual Representation | CVPR 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://s4-driver.github.io/) | - |
 | `AutoVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2506.13757-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.13757)<br>AutoVLA: A Vision-Language-Action Model for End-to-End Autonomous Driving with Adaptive Reasoning and Reinforcement Fine-Tuning | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://autovla.github.io/) | [![GitHub](https://img.shields.io/github/stars/ucla-mobility/AutoVLA)](https://github.com/ucla-mobility/AutoVLA) |
 | `OpenDriveVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.23463-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.23463)<br>OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivevla.github.io/) | [![GitHub](https://img.shields.io/github/stars/DriveVLA/OpenDriveVLA)](https://github.com/DriveVLA/OpenDriveVLA) |
-| `PLA` | [![arXiv](https://img.shields.io/badge/arXiv-2211.16312-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2211.16312)<br>PLA: Language-Driven Open-Vocabulary 3D Scene Understanding | CVPR 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dingry.github.io/projects/PLA) | [![GitHub](https://img.shields.io/github/stars/CVMI-Lab/PLA)](https://github.com/CVMI-Lab/PLA) |
+| `PLA` | [![arXiv](https://img.shields.io/badge/arXiv-2507.23540-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.23540)<br>A Unified Perception-Language-Action Framework for Adaptive Autonomous Driving | arXiv 2025 | - | - |
+| `OccVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2509.05578-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.05578)<br>OccVLA: Vision-Language-Action Model with Implicit 3D Occupancy Supervision | arXiv 2024 | - | - |
 
 ### :three: Explicit Action Guidance
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| `DriveVLM` | [![arXiv](https://img.shields.io/badge/arXiv-2402.12289-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.12289)<br>DriveVLM: The convergence of autonomous driving and large vision-language models | CoRL 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://tsinghua-mars-lab.github.io/DriveVLM/) | - |
+| `DualAD` | [![arXiv](https://img.shields.io/badge/arXiv-2409.18053-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2409.18053)<br>DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving | IROS 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dualad.github.io/) | [![GitHub](https://img.shields.io/github/stars/TUM-AVS/DualAD)](https://github.com/TUM-AVS/DualAD) |
+| `FasionAD` | [![arXiv](https://img.shields.io/badge/arXiv-2411.18013-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2411.18013)<br>FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback | arXiv 2024 | - | - |
+| `Senna` | [![arXiv](https://img.shields.io/badge/arXiv-2410.22313-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2410.22313)<br>Senna: Bridging Large Vision-Language Models and End-to-End Autonomous Driving | arXiv 2024 | - | [![GitHub](https://img.shields.io/github/stars/hustvl/Senna)](https://github.com/hustvl/Senna) |
+| `LeapAD` | [![arXiv](https://img.shields.io/badge/arXiv-2405.15324-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.15324)<br>Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving | NeurIPS 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://pjlab-adg.github.io/LeapAD/) | [![GitHub](https://img.shields.io/github/stars/PJLab-ADG/LeapAD)](https://github.com/PJLab-ADG/LeapAD) |
+| `DME-Driver` | [![arXiv](https://img.shields.io/badge/arXiv-2401.03641-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.03641)<br>DME-Driver: Integrating human decision logic and 3D scene perception in autonomous driving |  AAAI 2025 | - | - |
+| `LeapVAD` | [![arXiv](https://img.shields.io/badge/arXiv-2501.08168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.08168)<br>LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking | arXiv 2025 | - | - |
+| `DiffVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2505.19381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.19381)<br>DiffVLA: Vision-language guided diffusion planning for autonomous driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/RenzKa/simlingo)](https://github.com/RenzKa/simlingo) |
+| `ReAL-AD` | [![arXiv](https://img.shields.io/badge/arXiv-2507.12499-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.12499)<br>ReAL-AD: Towards Human-Like Reasoning in End-to-End Autonomous Driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://4dvlab.github.io/project_page/realad) | - |
+| `SOLVE` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16805-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.16805)<br>SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving | CVPR 2025 | - | - |
+
+
 ### :four: Implicit Representations Transfer
 
 > :timer_clock: In chronological order, from the earliest to the latest.
+
+| Model | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| `VLP` | [![arXiv](https://img.shields.io/badge/arXiv-2401.05577-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.05577)<br>VLP: Vision language planning for autonomous driving | CVPR 2024 | - | - |
+| `VLM-AD` | [![arXiv](https://img.shields.io/badge/arXiv-2412.14446-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.14446)<br>VLM-AD: End-to-end autonomous driving through vision-language model supervision | CoRL 2025 | - | - |
+| `DiMA` | [![arXiv](https://img.shields.io/badge/arXiv-2501.09757-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.09757)<br>DiMA: Distilling multi-modal large language models for autonomous driving | CVPR 2025 | - | - |
+| `ALN-P3` | [![arXiv](https://img.shields.io/badge/arXiv-2505.15158-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.15158)<br>ALN-P3: Unified language alignment for perception, prediction, and planning in autonomous driving | arXiv 2025 | - | - |
+| `VERDI` | [![arXiv](https://img.shields.io/badge/arXiv-2505.15925-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.15925)<br>VERDI: VLM-embedded reasoning for autonomous driving | arXiv 2025 | - | - |
+| `VLM-E2E` | [![arXiv](https://img.shields.io/badge/arXiv-2502.18042-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.18042)<br>VLM-E2E: Enhancing end-to-end autonomous driving with multimodal driver attention fusion | arXiv 2025 | - | - |
+| `ReCogDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2506.08052-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.08052)<br>ReCogDrive: A reinforced cognitive framework for end-to-end autonomous driving | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://xiaomi-research.github.io/recogdrive/) | [![GitHub](https://img.shields.io/github/stars/xiaomi-research/ReCogDrive)](https://github.com/xiaomi-research/ReCogDrive) |
+| `Insightdrive` | [![arXiv](https://img.shields.io/badge/arXiv-2503.13047-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.13047)<br>Insightdrive: Insight scene representation for end-to-end autonomous driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/ruiqi-song/InsightDrive)](https://github.com/ruiqi-song/InsightDrive) |
+| `NetRoller` | [![arXiv](https://img.shields.io/badge/arXiv-2506.14589-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.14589)<br>NetRoller: Interfacing General and Specialized Models for End-to-End Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/Rex-sys-hk/NetRoller)](https://github.com/Rex-sys-hk/NetRoller) |
+| `ETA` | [![arXiv](https://img.shields.io/badge/arXiv-2506.07725-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.07725)<br>ETA: Efficiency through Thinking Ahead, A Dual Approach to Self-Driving with Large Models | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/ETA)](https://github.com/OpenDriveLab/ETA) |
+| `ViLaD` | [![arXiv](https://img.shields.io/badge/arXiv-2508.12603-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.12603)<br>ViLaD: A Large Vision Language Diffusion Framework for End-to-End Autonomous Driving | arXiv 2025 | - | - |
 
 ## 3. Datasets & Benchmarks
 
