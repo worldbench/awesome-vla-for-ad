@@ -23,12 +23,14 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ### Table of Contents
 - [**1. Vision-Action-Models**](#1-vision-action-models)
-  - [End-to-End VA Models]()
-  - [World Models]()
+  - [:one: End-to-End VA Models](#one-end-to-end-va-models)
+  - [:two: World Models](#two-world-models)
+    - [Image-Based World Models](#three-image-based-world-models)
+    - [Occupancy-Based World Models](#four-occupancy-based-world-models)
 - [**2. Vision-Language-Action-Models**](#2-vision-language-action-models)
-  - [End-to-End VLA Models]()
-  - [Dual Systems]()
-- [**3. Datasets \& Benchmarks**]()
+  - [:one: Textual Action Generator](#one-textural-action-generator)
+  - [:two: Numerical Action Generator](#two-numerical-action-generator)
+- [**3. Datasets & Benchmarks**](#3-datasets--benchmarks)
 - [**4. Applications**](#4-applications)
 - [**5. Other Resources**](#5-other-resources)
 
@@ -150,7 +152,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Impromptu-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2505.23757-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.23757)<br>Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://impromptu-vla.c7w.tech/) | [![GitHub](https://img.shields.io/github/stars/ahydchh/Impromptu-VLA)](https://github.com/ahydchh/Impromptu-VLA) |
 | `LightEMMA` | [![arXiv](https://img.shields.io/badge/arXiv-2505.00284-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.00284)<br>LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/michigan-traffic-lab/LightEMMA)](https://github.com/michigan-traffic-lab/LightEMMA) | 
 | `AutoDrive-R²` | [![arXiv](https://img.shields.io/badge/arXiv-2509.01944-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.01944)<br>Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models | arXiv 2025 | - | - |
-| `OmniReason` | [![arXiv](https://img.shields.io/badge/arXiv-2505.23757-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.23757)<br>Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models | arXiv 2025 | - | - |
+| `OmniReason` | [![arXiv](https://img.shields.io/badge/arXiv-2509.00789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.00789)<br>OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving | arXiv 2025 | - | - |
 
 <!-- 
 | `DriVLMe` | [![arXiv](https://img.shields.io/badge/arXiv-2311.05547-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2311.05547)<br>DriVLMe: Driving Video-Language Model for Joint Perception and Generation | NeurIPS 2023 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivelme.github.io/) | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/DriVLMe)](https://github.com/OpenDriveLab/DriVLMe) |
@@ -223,6 +225,41 @@ If you find this work helpful for your research, please kindly consider citing o
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
+### :one: Vision-Action Datasets
+
+| Dataset | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| BDD100K | [![arXiv](https://img.shields.io/badge/arXiv-1805.04687-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1805.04687)<br>BDD100K: A diverse driving dataset for heterogeneous multitask learning | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://bair.berkeley.edu/blog/2018/05/30/bdd/) | [![GitHub](https://img.shields.io/github/stars/bdd100k/bdd100k)](https://github.com/bdd100k/bdd100k) |
+| nuScenes | [![arXiv](https://img.shields.io/badge/arXiv-1903.11027-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11027)<br>nuScenes: A multimodal dataset for autonomous driving | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nuscenes.org/) | - |
+| Waymo Open | [![arXiv](https://img.shields.io/badge/arXiv-1912.04838-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1912.04838)<br>Scalability in perception for autonomous driving: Waymo open dataset | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://waymo.com/open/) | [![GitHub](https://img.shields.io/github/stars/waymo-research/waymo-open-dataset)](https://github.com/waymo-research/waymo-open-dataset) |
+| nuPlan | [![arXiv](https://img.shields.io/badge/arXiv-2106.11810-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2106.11810)<br>nuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles | arXiv 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nuplan.org/) | [![GitHub](https://img.shields.io/github/stars/motional/nuplan-devkit)](https://github.com/motional/nuplan-devkit) |
+| Argoverse 2 | [![arXiv](https://img.shields.io/badge/arXiv-2301.00493-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2301.00493)<br>Argoverse 2: Next generation datasets for self-driving perception and forecasting | NeurIPS 2021 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.argoverse.org/av2.html) | [![GitHub](https://img.shields.io/github/stars/argoverse/av2-api)](https://github.com/argoverse/av2-api) |
+| Bench2Drive | [![arXiv](https://img.shields.io/badge/arXiv-2406.03877-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2406.03877)<br>Bench2Drive: Towards multi-ability benchmarking of closed-loop end-to-end autonomous driving | NeurIPS 2024 | - | [![GitHub](https://img.shields.io/github/stars/Thinklab-SJTU/Bench2Drive)](https://github.com/Thinklab-SJTU/Bench2Drive) |
+| RoboBEV | [![arXiv](https://img.shields.io/badge/arXiv-2405.17426-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.17426)<br>Benchmarking and improving bird's eye view perception robustness in autonomous driving | T-PAMI 2025 | - | [![GitHub](https://img.shields.io/github/stars/Daniel-xsy/RoboBEV)](https://github.com/Daniel-xsy/RoboBEV) |
+
+### :two: Vision-Language-Action Datasets
+
+| Dataset | Paper | Venue | Website | GitHub | 
+|:-:|:-|:-:|:-:|:-:|
+||
+| `BDD-X` | [![arXiv](https://img.shields.io/badge/arXiv-1807.11546-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1807.11546)<br>Textual explanations for self-driving vehicles | ECCV 2018 | - | [![GitHub](https://img.shields.io/github/stars/JinkyuKimUCB/BDD-X-dataset)](https://github.com/JinkyuKimUCB/BDD-X-dataset) |
+| `Talk2Car-Trajectory` | [![IEEE](https://img.shields.io/badge/IEEE-2022-b31b1b?style=flat-square)](https://ieeexplore.ieee.org/document/9961196)<br>Talk2Car: Predicting physical trajectories for natural language commands | IEEE Access 2022 | - | [![GitHub](https://img.shields.io/github/stars/ThierryDeruyttere/Talk2Car-Trajectory)](https://github.com/ThierryDeruyttere/Talk2Car-Trajectory) |
+| `DriveLM` | [![arXiv](https://img.shields.io/badge/arXiv-2312.14150-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.14150)<br>DriveLM: Driving with graph visual question answering | ECCV 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://opendrivelab.com/DriveLM/) | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/DriveLM)](https://github.com/OpenDriveLab/DriveLM) |
+| `DriveLM-CARLA` | [![arXiv](https://img.shields.io/badge/arXiv-2312.14150-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.14150)<br>DriveLM: Driving with graph visual question answering | ECCV 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://opendrivelab.com/DriveLM/) | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/DriveLM)](https://github.com/OpenDriveLab/DriveLM) |
+| `LingoQA` | [![arXiv](https://img.shields.io/badge/arXiv-2312.14115-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.14115)<br>LingoQA: Visual question answering for autonomous driving | ECCV 2024 | - | [![GitHub](https://img.shields.io/github/stars/wayveai/LingoQA)](https://github.com/wayveai/LingoQA) |
+| `NuInstruct` | [![arXiv](https://img.shields.io/badge/arXiv-2401.00988-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2401.00988)<br>Holistic Autonomous Driving Understanding by Bird's-Eye-View Injected Multi-Modal Large Models | CVPR 2024 | - | [![GitHub](https://img.shields.io/github/stars/xmed-lab/NuInstruct)](https://github.com/xmed-lab/NuInstruct) |
+| `WOMD-Reason` | [![arXiv](https://img.shields.io/badge/arXiv-2407.04281-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2407.04281)<br>WOMD-Reasoning: A large-scale dataset for interaction reasoning in driving | ICML 2025 |[![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://waymo.com/open/download) | [![GitHub](https://img.shields.io/github/stars/yhli123/WOMD-Reasoning)](https://github.com/yhli123/WOMD-Reasoning) |
+| `Reason2Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2312.03661-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.03661)<br>Reason2Drive: Towards interpretable and chain-based reasoning for autonomous driving | ECCV 2024 | - | [![GitHub](https://img.shields.io/github/stars/fudan-zvg/Reason2Drive)](https://github.com/fudan-zvg/Reason2Drive) |
+| `DriveBench` | [![arXiv](https://img.shields.io/badge/arXiv-2501.04003-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.04003)<br>Are VLMs ready for autonomous driving? an empirical study from the reliability, data, and metric perspectives | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drive-bench.github.io/) | [![GitHub](https://img.shields.io/github/stars/drive-bench/toolkit)](https://github.com/drive-bench/toolkit) |
+| `OmniDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2405.01533-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2405.01533)<br>OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning | CVPR 2025 | - | [![GitHub](https://img.shields.io/github/stars/NVlabs/OmniDrive)](https://github.com/NVlabs/OmniDrive) |
+| `NuInteract` | [![arXiv](https://img.shields.io/badge/arXiv-2505.08725-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.08725)<br>Extending Large Vision-Language Model for Diverse Interactive Tasks in Autonomous Driving | arXiv 2025 | - | - |
+| `DriveAction` | [![arXiv](https://img.shields.io/badge/arXiv-2506.05667-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.05667)<br>DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models | arXiv 2025 | - | - |
+| `DriveCoT` | [![arXiv](https://img.shields.io/badge/arXiv-2403.16996-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2403.16996)<br>DriveCoT: Integrating chain-of-thought reasoning with end-to-end driving | arXiv 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivecot.github.io/) | - |
+| `ImpromptuVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2505.23757-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.23757)<br>Impromptu VLA: Open weights and open data for driving vision-language-action models | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://impromptu-vla.c7w.tech/) | [![GitHub](https://img.shields.io/github/stars/ahydchh/Impromptu-VLA)](https://github.com/ahydchh/Impromptu-VLA) |
+| `CoVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2408.10845-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2408.10845)<br>CoVLA: Comprehensive vision-language-action dataset for autonomous driving | WACV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://turingmotors.github.io/covla-ad/) | - |
+| `OmniReason` | [![arXiv](https://img.shields.io/badge/arXiv-2509.00789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.00789)<br>OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving | arXiv 2025 | - | - |
+| `OmniReason-B2D` | [![arXiv](https://img.shields.io/badge/arXiv-2509.00789-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.00789)<br>OmniReason: A Temporal-Guided Vision-Language-Action Framework for Autonomous Driving | arXiv 2025 | - | - |
 
 ## 4. Applications
 
