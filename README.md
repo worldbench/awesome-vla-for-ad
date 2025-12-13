@@ -4,9 +4,17 @@
 
 # :sunglasses: Awesome VLA for Autonomous Driving
 
+Autonomous driving has long relied on modular "Perception-Decision-Action" pipelines, whose hand-crafted interfaces and rule-based components often struggle in complex, dynamic, or long-tailed scenarios. Their cascaded structure also amplifies upstream perception errors, undermining downstream planning and control.
+
 This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous driving. 
 
-<!--
+We trace the evolution from early VA approaches to modern VLA frameworks, and organize existing methods into two principal paradigms: **End-to-End VLAs**, which integrate perception, reasoning, and planning within a single model, and **Dual-System VLAs**, which separate slow deliberation (via VLMs) from fast, safety-critical execution (via planners).
+
+
+| <img width="100%" src="docs/figures/teaser.png"> |
+|:-:|
+
+
 ### :books: Citation 
 
 If you find this work helpful for your research, please kindly consider citing our paper:
@@ -18,30 +26,30 @@ If you find this work helpful for your research, please kindly consider citing o
     year    = {2025},
 }
 ```
--->
 
 
 # Table of Contents
-- [**1. Vision-Action-Models**](#1-vision-action-models)
-  - [:one: Action-Only Models](#one-action-only-models)
-  - [:two: Perception-Action Models](#two-perception-action-models)
-  - [:three: Image-based World Models](#three-image-based-world-models)
-  - [:four: Occupancy-based World Models](#four-occupancy-based-world-models)
-  - [:five: Latent-based World Models](#five-latent-based-world-models)
-- [**2. Vision-Language-Action-Models**](#2-vision-language-action-models)
-  - [:one: Textual Action Generator](#one-textual-action-generator)
-  - [:two: Numerical Action Generator](#two-numerical-action-generator)
-  - [:three: Explicit Action Guidance](#three-explicit-action-guidance)
-  - [:four: Implicit Representations Transfer](#four-implicit-representations-transfer)
+- [**1. Vision-Action Models**](#1-vision-action-models)
+  - [Action-Only Models](#one-action-only-models)
+  - [Perception-Action Models](#two-perception-action-models)
+  - [Image-based World Models](#three-image-based-world-models)
+  - [Occupancy-based World Models](#four-occupancy-based-world-models)
+  - [Latent-based World Models](#five-latent-based-world-models)
+- [**2. Vision-Language-Action Models**](#2-vision-language-action-models)
+  - [Textual Action Generator](#one-textual-action-generator)
+  - [Numerical Action Generator](#two-numerical-action-generator)
+  - [Explicit Action Guidance](#three-explicit-action-guidance)
+  - [Implicit Representations Transfer](#four-implicit-representations-transfer)
 - [**3. Datasets & Benchmarks**](#3-datasets--benchmarks)
-  - [:one: Vision-Action Datasets](#one-vision-action-datasets)
-  - [:two: Vision-Language-Action Datasets](#two-vision-language-action-datasets)
+  - [Vision-Action Datasets](#one-vision-action-datasets)
+  - [Vision-Language-Action Datasets](#two-vision-language-action-datasets)
 - [**4. Applications**](#4-applications)
 - [**5. Other Resources**](#5-other-resources)
 
 
 
-## 1. Vision-Action-Models
+
+## 1. Vision-Action Models
 
 ### :one: Action-Only Models
 
@@ -130,7 +138,10 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Echo-Planning` | [![arXiv](https://img.shields.io/badge/arXiv-2505.18945-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.18945)<br>Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back | arXiv 2025 | - | - |
 | `SeerDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2510.11092-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.11092)<br>Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution | NeurIPS 2025 | - | [![GitHub](https://img.shields.io/github/stars/LogosRoboticsGroup/SeerDrive)](https://github.com/LogosRoboticsGroup/SeerDrive) |
 
-## 2. Vision-Language-Action-Models
+
+
+
+## 2. Vision-Language-Action Models
 
 > :timer_clock: In chronological order, from the earliest to the latest.
 
