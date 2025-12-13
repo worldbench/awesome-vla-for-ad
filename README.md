@@ -6,13 +6,15 @@
 
 Autonomous driving has long relied on modular "Perception-Decision-Action" pipelines, whose hand-crafted interfaces and rule-based components often struggle in complex, dynamic, or long-tailed scenarios. Their cascaded structure also amplifies upstream perception errors, undermining downstream planning and control.
 
-This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous driving. 
-
-We trace the evolution from early VA approaches to modern VLA frameworks, and organize existing methods into two principal paradigms: **End-to-End VLAs**, which integrate perception, reasoning, and planning within a single model, and **Dual-System VLAs**, which separate slow deliberation (via VLMs) from fast, safety-critical execution (via planners).
+This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous driving. We trace the evolution from early VA approaches to modern VLA frameworks, and organize existing methods into two principal paradigms: 
+- **End-to-End VLA**, which integrates perception, reasoning, and planning within a single model.
+- **Dual-System VLA**, which separates slow deliberation (via VLMs) from fast, safety-critical execution (via planners).
 
 
 | <img width="100%" src="docs/figures/teaser.png"> |
 |:-:|
+
+For more details, kindly refer to our [paper]() and [project page](). :rocket:
 
 
 ### :books: Citation 
