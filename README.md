@@ -14,7 +14,7 @@ This survey reviews **vision-action (VA)** models and **vision-language-action (
 | <img width="100%" src="docs/figures/teaser.png"> |
 |:-:|
 
-For more details, kindly refer to our [Survey Paper](https://arxiv.org/abs/2512.16760) and [Project Page](https://worldbench.github.io/vla4ad). :rocket:
+For more details, kindly refer to our [Survey Paper](https://arxiv.org/abs/2512.16760), [Project Page](https://worldbench.github.io/vla4ad), and [HuggingFace Leaderboard](https://huggingface.co/spaces/worldbench/vla4ad). :rocket:
 
 
 ### :books: Citation 
