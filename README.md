@@ -14,7 +14,7 @@ This survey reviews **vision-action (VA)** models and **vision-language-action (
 | <img width="100%" src="docs/figures/teaser.png"> |
 |:-:|
 
-For more details, kindly refer to our [Survey Paper](https://arxiv.org/abs/2512.16760), [Project Page](https://worldbench.github.io/vla4ad), and [HuggingFace Leaderboard](https://huggingface.co/spaces/worldbench/vla4ad). :rocket:
+For more details, kindly refer to our :books: [Paper](https://arxiv.org/abs/2512.16760), :globe_with_meridians: [Project Page](https://worldbench.github.io/vla4ad), and :hugs: [HuggingFace Leaderboard](https://huggingface.co/spaces/worldbench/vla4ad).
 
 
 ### :books: Citation 
@@ -23,7 +23,7 @@ If you find this work helpful for your research, please kindly consider citing o
 ```bib
 @article{survey_vla4ad,
     title   = {Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future},
-    author  = {Tianshuai Hu and Xiaolu Liu and Song Wang and Yiyao Zhu and Guoyang Zhao and Jun Cen and Lingdong Kong and Linfeng Li and Xiangtai Li and Shaojie Shen and Jianke Zhu and Dacheng Tao and Junwei Liang},
+    author  = {Tianshuai Hu and Xiaolu Liu and Song Wang and Yiyao Zhu and Ao Liang and Lingdong Kong and Guoyang Zhao and Zeying Gong and Jun Cen and Zhiyu Huang and Xiaoshuai Hao and Linfeng Li and Hang Song and Xiangtai Li and Jun Ma and Shaojie Shen and Jianke Zhu and Dacheng Tao and Ziwei Liu and Junwei Liang},
     journal = {arXiv preprint arXiv:2512.16760},
     year    = {2025},
 }
