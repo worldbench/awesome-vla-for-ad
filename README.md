@@ -230,6 +230,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Reasoning-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2511.19912-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.19912)<br>Reasoning-vla: A fast and general vision-language-action reasoning model for autonomous  driving. | arXiv 2025 | - | - |
 | `SpaceDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.10719-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.10719)<br>SpaceDrive: Infusing spatial awareness into VLM-based autonomous driving. | arXiv 2025 | - | - |
 | `OpenDriveVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.23463-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.23463)<br>OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | AAAI 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivevla.github.io/) | [![GitHub](https://img.shields.io/github/stars/DriveVLA/OpenDriveVLA)](https://github.com/DriveVLA/OpenDriveVLA) |
+| `WAM-Flow` | [![arXiv](https://img.shields.io/badge/arXiv-2512.06112-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.06112)<br>WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving | arXiv 2025 |  | [![GitHub](https://img.shields.io/github/stars/fudan-generative-vision/WAM-Flow)](https://github.com/fudan-generative-vision/WAM-Flow) |
 
 ### :three: Explicit Action Guidance
 
