@@ -31,22 +31,25 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 # Table of Contents
-- [**1. Vision-Action Models**](#1-vision-action-models)
-  - [Action-Only Models](#one-action-only-models)
-  - [Perception-Action Models](#two-perception-action-models)
-  - [Image-based World Models](#three-image-based-world-models)
-  - [Occupancy-based World Models](#four-occupancy-based-world-models)
-  - [Latent-based World Models](#five-latent-based-world-models)
-- [**2. Vision-Language-Action Models**](#2-vision-language-action-models)
-  - [Textual Action Generator](#one-textual-action-generator)
-  - [Numerical Action Generator](#two-numerical-action-generator)
-  - [Explicit Action Guidance](#three-explicit-action-guidance)
-  - [Implicit Representations Transfer](#four-implicit-representations-transfer)
-- [**3. Datasets & Benchmarks**](#3-datasets--benchmarks)
-  - [Vision-Action Datasets](#one-vision-action-datasets)
-  - [Vision-Language-Action Datasets](#two-vision-language-action-datasets)
-- [**4. Applications**](#4-applications)
-- [**5. Other Resources**](#5-other-resources)
+- [:sunglasses: Awesome VLA for Autonomous Driving](#sunglasses-awesome-vla-for-autonomous-driving)
+    - [:books: Citation](#books-citation)
+- [Table of Contents](#table-of-contents)
+  - [1. Vision-Action Models](#1-vision-action-models)
+    - [:one: Action-Only Models](#one-action-only-models)
+    - [:two: Perception-Action Models](#two-perception-action-models)
+    - [:three: Image-based World Models](#three-image-based-world-models)
+    - [:four: Occupancy-based World Models](#four-occupancy-based-world-models)
+    - [:five: Latent-based World Models](#five-latent-based-world-models)
+  - [2. Vision-Language-Action Models](#2-vision-language-action-models)
+    - [:one: Textual Action Generator](#one-textual-action-generator)
+    - [:two: Numerical Action Generator](#two-numerical-action-generator)
+    - [:three: Explicit Action Guidance](#three-explicit-action-guidance)
+    - [:four: Implicit Representations Transfer](#four-implicit-representations-transfer)
+  - [3. Datasets \& Benchmarks](#3-datasets--benchmarks)
+    - [:one: Vision-Action Datasets](#one-vision-action-datasets)
+    - [:two: Vision-Language-Action Datasets](#two-vision-language-action-datasets)
+  - [4. Applications](#4-applications)
+  - [5. Other Resources](#5-other-resources)
 
 
 
@@ -230,6 +233,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Reasoning-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2511.19912-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.19912)<br>Reasoning-vla: A fast and general vision-language-action reasoning model for autonomous  driving. | arXiv 2025 | - | - |
 | `SpaceDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2512.10719-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.10719)<br>SpaceDrive: Infusing spatial awareness into VLM-based autonomous driving. | arXiv 2025 | - | - |
 | `OpenDriveVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2503.23463-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.23463)<br>OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model | AAAI 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivevla.github.io/) | [![GitHub](https://img.shields.io/github/stars/DriveVLA/OpenDriveVLA)](https://github.com/DriveVLA/OpenDriveVLA) |
+| `WAM-Flow` | [![arXiv](https://img.shields.io/badge/arXiv-2512.06112-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.06112)<br>WAM-Flow: Parallel Coarse-to-Fine Motion Planning via Discrete Flow Matching for Autonomous Driving | arXiv 2025 |  | [![GitHub](https://img.shields.io/github/stars/fudan-generative-vision/WAM-Flow)](https://github.com/fudan-generative-vision/WAM-Flow) |
+
 
 ### :three: Explicit Action Guidance
 
