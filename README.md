@@ -76,7 +76,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `BEVPlanner` | [![arXiv](https://img.shields.io/badge/arXiv-2312.03031-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.03031)<br>Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving? | CVPR 2024 | - | [![GitHub](https://img.shields.io/github/stars/NVlabs/BEV-Planner)](https://github.com/NVlabs/BEV-Planner) |
 | `Raw2Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16394-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.16394)<br>Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2) | NeurIPS 2025 | - | - |
 | `RAD` | [![arXiv](https://img.shields.io/badge/arXiv-2502.13144-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.13144)<br>RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning | NeurIPS 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hgao-cv.github.io/RAD/) | - |
-| `TrajDiff` | [![arXiv](https://img.shields.io/badge/arXiv-2512.00723-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.00723)<br>TrajDiff: End-to-end Autonomous Driving without Perception Annotation | arXiv 2025 | - | - |
+| `TrajDiff` | [![arXiv](https://img.shields.io/badge/arXiv-2512.00723-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.00723)<br>TrajDiff: End-to-End Autonomous Driving without Perception Annotation | arXiv 2025 | - | - |
 
 
 
@@ -107,6 +107,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `DiffusionDriveV2` | [![arXiv](https://img.shields.io/badge/arXiv-2512.07745-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.07745)<br>DiffusionDriveV2: Reinforcement Learning-Constrained Truncated Diffusion Modeling in End-to-End Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/hustvl/DiffusionDriveV2)](https://github.com/hustvl/DiffusionDriveV2) |
 | `NaviHydra` | [![arXiv](https://img.shields.io/badge/arXiv-2512.10660-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.10660)<br>NaviHydra: Controllable Navigation-Guided End-to-End Autonomous Driving with Hydra Distillation | arXiv 2025 | - | - |
 | `Mimir` | [![arXiv](https://img.shields.io/badge/arXiv-2512.07130-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.07130)<br>Mimir: Hierarchical Goal-Driven Diffusion with Uncertainty Propagation for End-to-End Autonomous Driving | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/ZebinX/Mimir-Uncertainty-Driving)](https://github.com/ZebinX/Mimir-Uncertainty-Driving) |
+| `FROST-Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2601.03460-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.03460)<br>FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder | arXiv 2026 | - | - |
 | `SPS` | [![arXiv](https://img.shields.io/badge/arXiv-2601.10707-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.10707)<br>See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection | arXiv 2026 | - | - |
 
 
