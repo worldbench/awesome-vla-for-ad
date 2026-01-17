@@ -37,9 +37,9 @@ If you find this work helpful for your research, please kindly consider citing o
 - [**1. Vision-Action Models**](#1-vision-action-models)
   - [Action-Only Models](#one-action-only-models)
   - [Perception-Action Models](#two-perception-action-models)
-  - [Image-based World Models](#three-image-based-world-models)
-  - [Occupancy-based World Models](#four-occupancy-based-world-models)
-  - [Latent-based World Models](#five-latent-based-world-models)
+  - [Image-Based World Models](#three-image-based-world-models)
+  - [Occupancy-Based World Models](#four-occupancy-based-world-models)
+  - [Latent-Based World Models](#five-latent-based-world-models)
 - [**2. Vision-Language-Action Models**](#2-vision-language-action-models)
   - [Textual Action Generator](#one-textual-action-generator)
   - [Numerical Action Generator](#two-numerical-action-generator)
@@ -126,6 +126,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `DrivingGPT` | [![arXiv](https://img.shields.io/badge/arXiv-2412.18607-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2412.18607)<br>DrivingGPT: Unifying Driving World Modeling and Planning with Multi-Modal Autoregressive Transformers | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://rogerchern.github.io/DrivingGPT/) | - |
 | `Epona` | [![arXiv](https://img.shields.io/badge/arXiv-2506.24113-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2506.24113)<br>Epona: Autoregressive Diffusion World Model for Autonomous Driving | ICCV 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://kevin-thu.github.io/Epona/) | [![GitHub](https://img.shields.io/github/stars/Kevin-thu/Epona)](https://github.com/Kevin-thu/Epona) |
 | `VaViM` | [![arXiv](https://img.shields.io/badge/arXiv-2502.15672-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.15672)<br>VaViM and VaVAM: Autonomous Driving through Video Generative Modeling | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://valeoai.github.io/vavim-vavam/) | [![GitHub](https://img.shields.io/github/stars/valeoai/VideoActionModel)](https://github.com/valeoai/VideoActionModel) |
+| `UniDrive-WM` | [![arXiv](https://img.shields.io/badge/arXiv-2601.04453-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.04453)<br>UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://unidrive-wm.github.io/UniDrive-WM) | - |
 
 
 
