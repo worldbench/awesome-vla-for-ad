@@ -77,7 +77,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Raw2Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2505.16394-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.16394)<br>Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2) | NeurIPS 2025 | - | - |
 | `RAD` | [![arXiv](https://img.shields.io/badge/arXiv-2502.13144-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2502.13144)<br>RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning | NeurIPS 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hgao-cv.github.io/RAD/) | - |
 | `TrajDiff` | [![arXiv](https://img.shields.io/badge/arXiv-2512.00723-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.00723)<br>TrajDiff: End-to-End Autonomous Driving without Perception Annotation | arXiv 2025 | - | - |
-
+| `SimScale` | [![arXiv](https://img.shields.io/badge/arXiv-2511.23369-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.23369)<br>SimScale: Learning to Drive via Real-World Simulation at Scale | arXiv 2025 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://opendrivelab.com/SimScale/) | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/SimScale)](https://github.com/OpenDriveLab/SimScale) |
 
 
 ### :two: Perception-Action Models
