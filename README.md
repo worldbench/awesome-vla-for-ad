@@ -176,6 +176,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `SSR` | [![arXiv](https://img.shields.io/badge/arXiv-2409.18341-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2409.18341)<br>Navigation-Guided Sparse Scene Representation for End-to-End Autonomous Driving | ICLR 2025 | - | [![GitHub](https://img.shields.io/github/stars/PeidongLi/SSR)](https://github.com/PeidongLi/SSR) |
 | `Echo-Planning` | [![arXiv](https://img.shields.io/badge/arXiv-2505.18945-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.18945)<br>Echo Planning for Autonomous Driving: From Current Observations to Future Trajectories and Back | arXiv 2025 | - | - |
 | `SeerDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2510.11092-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2510.11092)<br>Future-Aware End-to-End Driving: Bidirectional Modeling of Trajectory Planning and Scene Evolution | NeurIPS 2025 | - | [![GitHub](https://img.shields.io/github/stars/LogosRoboticsGroup/SeerDrive)](https://github.com/LogosRoboticsGroup/SeerDrive) |
+| `Drive-JEPA` | [![arXiv](https://img.shields.io/badge/arXiv-2601.22032-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.22032)<br>Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/linhanwang/Drive-JEPA)](https://github.com/linhanwang/Drive-JEPA) |
 ||
 
 
