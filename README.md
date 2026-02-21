@@ -279,6 +279,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `LeapVAD` | [![arXiv](https://img.shields.io/badge/arXiv-2501.08168-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2501.08168)<br>LeapVAD: A Leap in Autonomous Driving via Cognitive Perception and Dual-Process Thinking | TNNLS 2025 | - | - |
 | `DiffVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2505.19381-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.19381)<br>DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving | arXiv 2025 | - | - |
 | `FasionAD++` | [![arXiv](https://img.shields.io/badge/arXiv-2503.08162-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.08162)<br>FASIONAD++: Integrating High-Level Instruction and Information Bottleneck in Fast-Slow fusion Systems for Enhanced Safety in Autonomous Driving with Adaptive Feedback | arXiv 2025 | - | - |
+| `HiST-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2602.13329-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.13329)<br>HiST-VLA: A Hierarchical Spatio-Temporal Vision-Language-Action Model for End-to-End Autonomous Driving | arXiv 2026 | - | - |
 ||
 
 
