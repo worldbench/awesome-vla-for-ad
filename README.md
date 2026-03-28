@@ -304,6 +304,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `ViLaD` | [![arXiv](https://img.shields.io/badge/arXiv-2508.12603-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.12603)<br>ViLaD: A Large Vision Language Diffusion Framework for End-to-End Autonomous Driving | arXiv 2025 | - | - |
 | `OmniScene` | [![arXiv](https://img.shields.io/badge/arXiv-2509.19973-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.19973)<br>OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving | arXiv 2025 | - | - |
 | `LMAD` | [![arXiv](https://img.shields.io/badge/arXiv-2508.12404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.12404)<br>LMAD: Integrated End-to-End VisionLanguage Model for Explainable Autonomous Driving | arXiv 2025 | - | - |
+| `BEVLM` | [![arXiv](https://img.shields.io/badge/arXiv-2603.06576-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.06576)<br>BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations | arXiv 2026 | - | - |
 ||
 
 
