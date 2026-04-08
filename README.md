@@ -120,6 +120,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `FROST-Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2601.03460-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.03460)<br>FROST-Drive: Scalable and Efficient End-to-End Driving with a Frozen Vision Encoder | arXiv 2026 | - | - |
 | `DrivoR` | [![arXiv](https://img.shields.io/badge/arXiv-2601.05083-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.05083)<br>Driving on Registers | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://valeoai.github.io/driving-on-registers/) | [![GitHub](https://img.shields.io/github/stars/valeoai/DrivoR)](https://github.com/valeoai/DrivoR) |
 | `SPS` | [![arXiv](https://img.shields.io/badge/arXiv-2601.10707-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.10707)<br>See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection | arXiv 2026 | - | - |
+| `BevAD` | [![arXiv](https://img.shields.io/badge/arXiv-2603.15185-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.15185)<br>What Matters for Scalable and Robust Learning in End-to-End Driving Planners? | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dmholtz.github.io/bevad/) | [![GitHub](https://img.shields.io/github/stars/dmholtz/bevad)](https://github.com/dmholtz/bevad) |
 ||
 
 
