@@ -121,6 +121,11 @@ If you find this work helpful for your research, please kindly consider citing o
 | `DrivoR` | [![arXiv](https://img.shields.io/badge/arXiv-2601.05083-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.05083)<br>Driving on Registers | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://valeoai.github.io/driving-on-registers/) | [![GitHub](https://img.shields.io/github/stars/valeoai/DrivoR)](https://github.com/valeoai/DrivoR) |
 | `SPS` | [![arXiv](https://img.shields.io/badge/arXiv-2601.10707-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.10707)<br>See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection | arXiv 2026 | - | - |
 | `BevAD` | [![arXiv](https://img.shields.io/badge/arXiv-2603.15185-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.15185)<br>What Matters for Scalable and Robust Learning in End-to-End Driving Planners? | CVPR 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://dmholtz.github.io/bevad/) | [![GitHub](https://img.shields.io/github/stars/dmholtz/bevad)](https://github.com/dmholtz/bevad) |
+| `BeyondSight` | [![arXiv](https://img.shields.io/badge/arXiv-2607.09138-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.09138)<br>BeyondSight: Object Permanence for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `What's` | [![arXiv](https://img.shields.io/badge/arXiv-2607.00283-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.00283)<br>What's Hidden Matters: Identifying Planning-Critical Occluded Agents using Vision-Language Models | arXiv 2026 | - | - |
+| `Plug` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18035-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18035)<br>Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `Off` | [![arXiv](https://img.shields.io/badge/arXiv-2606.30807-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.30807)<br>Off the Rails: Hijacking the Scoring Head in Generative End-to-End Driving Planners with Safety-Violating Adversarial Perturbations | arXiv 2026 | - | - |
+| `Herding` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11451-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11451)<br>Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards | arXiv 2026 | - | - |
 ||
 
 
@@ -149,6 +154,14 @@ If you find this work helpful for your research, please kindly consider citing o
 | `HERMES++` | [![arXiv](https://img.shields.io/badge/arXiv-2604.28196-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.28196)<br>HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation | arXiv 2026 | - | - |
 | `LMGenDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2604.08719-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2604.08719)<br>LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving | arXiv 2026 | - | - |
 | `X-World` | [![arXiv](https://img.shields.io/badge/arXiv-2603.19979-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.19979)<br>X-World: Controllable Ego-Centric Multi-Camera World Models for Scalable End-to-End Driving | arXiv 2026 | - | - |
+| `How` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11601-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11601)<br>How Can Driving World Models Do Counterfactual Prediction? | arXiv 2026 | - | - |
+| `Orbis` | [![arXiv](https://img.shields.io/badge/arXiv-2607.15898-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.15898)<br>Orbis 2: A Hierarchical World Model for Driving | arXiv 2026 | - | - |
+| `M$^\text{4}$World:` | [![arXiv](https://img.shields.io/badge/arXiv-2607.14005-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.14005)<br>M$^\text{4}$World: A Multi-view Multimodal Driving World Model for Interactive Object Manipulation and Minute-long Streaming | arXiv 2026 | - | - |
+| `Is` | [![arXiv](https://img.shields.io/badge/arXiv-2607.10781-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.10781)<br>Is Energy Guidance All You Need? Training-Free Norm Injection for Driving World Models | arXiv 2026 | - | - |
+| `GeoRoute` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09493-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09493)<br>GeoRoute: Geometry-Aware Hybrid Inference for Traffic Future-Frame Prediction | arXiv 2026 | - | - |
+| `Cam2Sim` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04770-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04770)<br>Cam2Sim: Neural Scenario Reconstruction for Closed-Loop Autonomous Driving Simulation | arXiv 2026 | - | - |
+| `RealWeather` | [![arXiv](https://img.shields.io/badge/arXiv-2608.02953-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.02953)<br>RealWeather: Realistic and Scene-Faithful Weather Translation with Driving World Models | arXiv 2026 | - | - |
+| `SUV` | [![arXiv](https://img.shields.io/badge/arXiv-2608.03084-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.03084)<br>SUV: Future Scene Understanding as Video Generation for End-to-End Driving | arXiv 2026 | - | - |
 ||
 
 
@@ -170,6 +183,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `AD-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2511.20325-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.20325)<br>AD-R1: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving with Impartial World Models | arXiv 2025 | - | - |
 | `SparseOccVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2601.06474-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.06474)<br>SparseOccVLA: Bridging Occupancy and Vision-Language Models via Sparse Queries for Unified 4D Scene Understanding and Planning | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/MSunDYY/SparseOccVLA)](https://github.com/MSunDYY/SparseOccVLA) |
 | `GEM` | [![arXiv](https://img.shields.io/badge/arXiv-2605.17682-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.17682)<br>GEM: Gaussian Evolution Model for Occupancy Forecasting and Motion Planning | arXiv 2026 | - | - |
+| `OWMDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2606.30421-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.30421)<br>OWMDrive: Causality-Aware End-to-End Autonomous Driving via 4D Occupancy World Model | arXiv 2026 | - | - |
+| `GaussianDWM++` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16234-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16234)<br>GaussianDWM++: Language-Grounded 3D Gaussian Driving World Model for Unified Scene Understanding, Editing, and Multi-Modal Generation | arXiv 2026 | - | - |
 ||
 
 
@@ -199,6 +214,15 @@ If you find this work helpful for your research, please kindly consider citing o
 | `World Models` | [![arXiv](https://img.shields.io/badge/arXiv-2606.00133-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.00133)<br>World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications | arXiv 2026 | - | - |
 | `DynVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2603.11041-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.11041)<br>DynVLA: Learning World Dynamics for Action Reasoning in Autonomous Driving | arXiv 2026 | - | - |
 | `DriveWorld-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2602.06521-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2602.06521)<br>DriveWorld-VLA: Unified Latent-Space World Modeling with Vision-Language-Action for Autonomous Driving | arXiv 2026 | - | - |
+| `CRISP` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04541-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04541)<br>CRISP: A Spatiotemporal Camera-Radar Backbone for Driving via Forecasting-Based World-Model Pretraining | arXiv 2026 | - | - |
+| `Geographic` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04500-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04500)<br>Geographic Diversity Beats Data Volume for Cross-Domain Generalization in Zero-Label JEPA Driving World Models | arXiv 2026 | - | - |
+| `Auto` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29031-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29031)<br>Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `BrainWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.12854-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.12854)<br>BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving | arXiv 2026 | - | - |
+| `X-Mind` | [![arXiv](https://img.shields.io/badge/arXiv-2606.28758-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.28758)<br>X-Mind: Efficient Visual Chain-of-Thought via Predictive World Model for End-to-End Driving | arXiv 2026 | - | - |
+| `WCog` | [![arXiv](https://img.shields.io/badge/arXiv-2607.08375-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.08375)<br>WCog-VLA: A Dual-Level World-Cognitive Vision-Language-Action Model for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `HyWorldVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2607.20988-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.20988)<br>HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving | arXiv 2026 | - | - |
+| `LWDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2606.29879-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.29879)<br>LWDrive: Layer-Wise World-Model-Guided Vision-Language Model Planning for Autonomous Driving | arXiv 2026 | - | - |
+| `DriveCache` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16354-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16354)<br>DriveCache: Action-Aware Caching for Driving World Model Inference | arXiv 2026 | - | - |
 ||
 
 
@@ -266,6 +290,15 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Counterfactual VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2512.24426-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.24426)<br>Counterfactual VLA: Self-Reflective Vision-Language-Action Model with Adaptive Reasoning | arXiv 2025 | - | - |
 | `OmniDrive-R1` | [![arXiv](https://img.shields.io/badge/arXiv-2512.14044-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.14044)<br>OmniDrive-R1: Reinforcement-driven Interleaved Multi-modal Chain-of-Thought for Trustworthy Vision-Language Autonomous Driving | arXiv 2025 | - | - |
 | `BeLLA` | [![arXiv](https://img.shields.io/badge/arXiv-2512.06096-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.06096)<br>BeLLA: End-to-End Birds Eye View Large Language Assistant for Autonomous Driving | arXiv 2025 | - | - |
+| `Reasoning` | [![arXiv](https://img.shields.io/badge/arXiv-2606.31160-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.31160)<br>Reasoning-aware Speculative Decoding for Efficient Vision-Language-Action Models in Autonomous Driving | arXiv 2026 | - | - |
+| `What` | [![arXiv](https://img.shields.io/badge/arXiv-2607.16938-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.16938)<br>What Do They See? Interpreting Complex Road Scenarios Through the Eyes of Vision-Language-Action Models for Safe and Trustworthy Autonomous Vehicle Learning | arXiv 2026 | - | - |
+| `Teaching` | [![arXiv](https://img.shields.io/badge/arXiv-2607.01658-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.01658)<br>Teaching Vision-Language-Action Models What to See and Where to Look | arXiv 2026 | - | - |
+| `Deferred` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01755-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01755)<br>Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs | arXiv 2026 | - | - |
+| `Depth` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07361-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07361)<br>Depth-Wise Probing and Pruning of the Planning Token in a Driving Vision-Language-Action Model | arXiv 2026 | - | - |
+| `CritiqueDriveVLM` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04179-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04179)<br>CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving | arXiv 2026 | - | - |
+| `FactorDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.09591-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.09591)<br>FactorDrive: Adaptive Multi-Step Reasoning Driven by Planning-Critical Factors for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `XCoT` | [![arXiv](https://img.shields.io/badge/arXiv-2608.10976-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.10976)<br>XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving | arXiv 2026 | - | - |
+| `MVPruner` | [![arXiv](https://img.shields.io/badge/arXiv-2606.27660-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.27660)<br>MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving | arXiv 2026 | - | - |
 ||
 
 
@@ -323,6 +356,14 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Learning from Mistakes` | [![arXiv](https://img.shields.io/badge/arXiv-2603.14972-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.14972)<br>Learning from Mistakes: Post-Training for Driving VLA with Takeover Data | arXiv 2026 | - | - |
 | `SAMoE-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2603.08113-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.08113)<br>SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving | arXiv 2026 | - | - |
 | `LaST-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2603.01928-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.01928)<br>LaST-VLA: Thinking in Latent Spatio-Temporal Space for Vision-Language-Action in Autonomous Driving | arXiv 2026 | - | - |
+| `PixelPilot` | [![arXiv](https://img.shields.io/badge/arXiv-2607.04637-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.04637)<br>PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `S-squared` | [![arXiv](https://img.shields.io/badge/arXiv-2607.13926-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.13926)<br>S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving | arXiv 2026 | - | - |
+| `WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.01035-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.01035)<br>WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA | arXiv 2026 | - | - |
+| `AnchorVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2607.03182-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.03182)<br>AnchorVLA: Bridging Discrete Decisions and Continuous Trajectories for Vision-Language-Action Planning | arXiv 2026 | - | - |
+| `CLEAR` | [![arXiv](https://img.shields.io/badge/arXiv-2607.02841-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.02841)<br>CLEAR: Closed-Loop Reinforcement Learning at Scale for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `Post` | [![arXiv](https://img.shields.io/badge/arXiv-2607.08072-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.08072)<br>Post-Training in End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `Latent` | [![arXiv](https://img.shields.io/badge/arXiv-2608.00237-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.00237)<br>Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving | arXiv 2026 | - | - |
+| `Inference` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17095-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17095)<br>Inference-Time Attention Steering for Vision-Language-Action Driving Models | arXiv 2026 | - | - |
 ||
 
 
@@ -359,6 +400,10 @@ If you find this work helpful for your research, please kindly consider citing o
 | `PRAM-R` | [![arXiv](https://img.shields.io/badge/arXiv-2603.04222-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.04222)<br>PRAM-R: A Perception-Reasoning-Action-Memory Framework with LLM-Guided Modality Routing for Adaptive Autonomous Driving | arXiv 2026 | - | - |
 | `CorrectAD` | [![arXiv](https://img.shields.io/badge/arXiv-2511.13297-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.13297)<br>CorrectAD: A Self-Correcting Agentic System to Improve End-to-end Planning in Autonomous Driving | arXiv 2025 | - | - |
 | `MTRDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2509.20843-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.20843)<br>MTRDrive: Memory-Tool Synergistic Reasoning for Robust Autonomous Driving in Corner Cases | arXiv 2025 | - | - |
+| `Think` | [![arXiv](https://img.shields.io/badge/arXiv-2607.15621-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.15621)<br>Think at 5 Hz, Act at 20 Hz: Asynchronous Fast-Slow Vision-Language-Action Inference for Closed-Loop Driving | arXiv 2026 | - | - |
+| `DriveVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.10413-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.10413)<br>DriveVLA-M0: Failure-Aware Memory Augmentation for Autonomous Driving | arXiv 2026 | - | - |
+| `FIRE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13395-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13395)<br>FIRE-VLA: Failure-Informed Self-Evolution for Vision-Language-Action Models in Autonomous Driving | arXiv 2026 | - | - |
+| `FlashDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.12932-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.12932)<br>FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving | arXiv 2026 | - | - |
 ||
 
 
@@ -383,6 +428,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `OmniScene` | [![arXiv](https://img.shields.io/badge/arXiv-2509.19973-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.19973)<br>OmniScene: Attention-Augmented Multimodal 4D Scene Understanding for Autonomous Driving | arXiv 2025 | - | - |
 | `LMAD` | [![arXiv](https://img.shields.io/badge/arXiv-2508.12404-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2508.12404)<br>LMAD: Integrated End-to-End VisionLanguage Model for Explainable Autonomous Driving | arXiv 2025 | - | - |
 | `BEVLM` | [![arXiv](https://img.shields.io/badge/arXiv-2603.06576-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.06576)<br>BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations | arXiv 2026 | - | - |
+| `Outcome` | [![arXiv](https://img.shields.io/badge/arXiv-2607.29052-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.29052)<br>Outcome-Guided Distillation: A Teacher-Student Framework to Advance VLM Reasoning in Autonomous Driving | arXiv 2026 | - | - |
 ||
 
 
@@ -455,6 +501,14 @@ If you find this work helpful for your research, please kindly consider citing o
 | `RoboDriveVLM` | [![arXiv](https://img.shields.io/badge/arXiv-2512.01300-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2512.01300)<br>RoboDriveVLM: A Novel Benchmark and Baseline towards Robust Vision-Language Models for Autonomous Driving | arXiv 2025 | - | - |
 | `Is` | [![arXiv](https://img.shields.io/badge/arXiv-2511.14592-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.14592)<br>Is Your VLM for Autonomous Driving Safety-Ready? A Comprehensive Benchmark for Evaluating External and In-Cabin Risks | arXiv 2025 | - | - |
 | `CARScenes` | [![arXiv](https://img.shields.io/badge/arXiv-2511.10701-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2511.10701)<br>CARScenes: Semantic VLM Dataset for Safe Autonomous Driving | arXiv 2025 | - | - |
+| `AUTOPILOT` | [![arXiv](https://img.shields.io/badge/arXiv-2607.08745-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.08745)<br>AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding | arXiv 2026 | - | - |
+| `ObsDriveBench` | [![arXiv](https://img.shields.io/badge/arXiv-2607.23537-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.23537)<br>ObsDriveBench: Benchmarking Multimodal Understanding under Adverse Weather with Observability Awareness | arXiv 2026 | - | - |
+| `CARA` | [![arXiv](https://img.shields.io/badge/arXiv-2607.22494-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.22494)<br>CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation | arXiv 2026 | - | - |
+| `CMU` | [![arXiv](https://img.shields.io/badge/arXiv-2608.07621-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.07621)<br>CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models | arXiv 2026 | - | - |
+| `The` | [![arXiv](https://img.shields.io/badge/arXiv-2607.25570-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.25570)<br>The LAIA Dataset: Labelled Attention for Intelligent Automobiles | arXiv 2026 | - | - |
+| `VLN` | [![arXiv](https://img.shields.io/badge/arXiv-2607.17767-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.17767)<br>VLN-AVP: Zero-Shot Vision-Language Navigation with Hybrid Long-Short-Term Memory for Autonomous Valet Parking | arXiv 2026 | - | - |
+| `Benchmarking` | [![arXiv](https://img.shields.io/badge/arXiv-2607.05783-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.05783)<br>Benchmarking the Robustness of Autonomous Driving to Environmental Illusions: A Lane Perception Perspective | arXiv 2026 | - | - |
+| `SSP` | [![arXiv](https://img.shields.io/badge/arXiv-2608.14024-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.14024)<br>SSP: An Event-Matched Syn2Sim2Phy Cross-Domain Evaluation Framework for Autonomous Driving VLA Models | arXiv 2026 | - | - |
 ||
 
 
