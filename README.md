@@ -70,6 +70,11 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `Selective Memory` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15573-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15573)<br>Not All History Helps: Velocity-Aware Selective Memory for Long-Horizon End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `MomADv2` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23405-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23405)<br>MomADv2: Reliable Temporal Memory for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `RoG-DAgger` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24525-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24525)<br>RoG-DAgger: Rollout-Guided Post-Training for End-to-End Driving | arXiv 2026 | - | - |
+| `CL4AD` | [![arXiv](https://img.shields.io/badge/arXiv-2608.22549-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.22549)<br>Scaling Curriculum Learning For Autonomous Driving | arXiv 2026 | - | - |
+| `VG-SAF` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24366-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24366)<br>Variance-Guided Spatial Attention Fusion for Robust End-to-End Driving under Asymmetric Sensor Degradation | arXiv 2026 | - | - |
 ||
 | `LBC` | [![arXiv](https://img.shields.io/badge/arXiv-1912.12294-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1912.12294)<br>Learning by Cheating | CoRL 2020 | - | [![GitHub](https://img.shields.io/github/stars/dotchen/LearningByCheating)](https://github.com/dotchen/LearningByCheating) |
 | `Latent-DRL` | [![arXiv](https://img.shields.io/badge/arXiv-1911.10868-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1911.10868)<br>End-to-End Model-Free Reinforcement Learning for Urban Driving using Implicit Affordances | CVPR 2020 | - | - |
@@ -194,6 +199,10 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `DA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19085-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19085)<br>DA-WAM: Decision-Aligned Future Latents for Driving World Models | arXiv 2026 | - | - |
+| `WA-JEPA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20974-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20974)<br>WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving | arXiv 2026 | - | - |
+| `GeoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23486)<br>GeoWAM: Visual Geometry World Action Models for Autonomous Driving | arXiv 2026 | - | - |
+| `RISE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20430-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20430)<br>RISE: Adaptive Imagination for World Action Models | arXiv 2026 | - | - |
 ||
 | `Covariate-Shift` | [![arXiv](https://img.shields.io/badge/arXiv-2409.16663-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2409.16663)<br>Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models | arXiv 2024 | - | - |
 | `World4Drive` | [![arXiv](https://img.shields.io/badge/arXiv-2507.00603-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2507.00603)<br>World4Drive: End-to-End Autonomous Driving via Intention-aware Physical Latent World Model | ICCV 2025 | - | - |
@@ -235,6 +244,8 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `GAPL` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18254-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18254)<br>GAPL: Grounded Action-effect Policy Learning for LLM-Based Trajectory Planning | arXiv 2026 | - | - |
+| `MAO-LLM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20129-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20129)<br>Multi-Agent Orchestration with the Common-Sense Reasoning Capabilities of LLMs for Autonomous Driving | arXiv 2026 | - | - |
 ||
 | `DriveMLM` | [![arXiv](https://img.shields.io/badge/arXiv-2312.09245-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.09245)<br>DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving | arXiv 2023 | - | [![GitHub](https://img.shields.io/github/stars/OpenGVLab/DriveMLM)](https://github.com/OpenGVLab/DriveMLM) |
 | `RAG-Driver` | [![arXiv](https://img.shields.io/badge/arXiv-2402.10828-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2402.10828)<br>RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model | RSS 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://yuanjianhao508.github.io/RAG-Driver/) | [![GitHub](https://img.shields.io/github/stars/YuanJianhao508/RAG-Driver)](https://github.com/YuanJianhao508/RAG-Driver) |
@@ -308,6 +319,10 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `Geo-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21440-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21440)<br>Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics | arXiv 2026 | - | - |
+| `RedLight-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28656-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28656)<br>RedLight-VLA: Models for traffic-rule grounding and behavioral emphasis in driving policies | arXiv 2026 | - | - |
+| `Collab-MMI` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20890-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20890)<br>A Collaborative Multi-Modality Interaction for VLA-based End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `Drive the Thoughts` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29583-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29583)<br>Drive the Thoughts: Runtime Monitoring of VLA Reasoning-Trajectory Consistency | arXiv 2026 | - | - |
 ||
 | `LMDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2312.07488-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2312.07488)<br>LMDrive: Closed-Loop End-to-End Driving with Large Language Models | CVPR 2024 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://hao-shao.com/projects/lmdrive.html) | [![GitHub](https://img.shields.io/github/stars/opendilab/LMDrive)](https://github.com/opendilab/LMDrive) |
 | `BEVDriver` | [![arXiv](https://img.shields.io/badge/arXiv-2503.03074-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.03074)<br>BEVDriver: Leveraging BEV Maps in LLMs for Robust Closed-Loop Driving | IROS 2025 | - | - |
@@ -442,6 +457,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Dataset | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `SkyDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25142-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25142)<br>SkyDrive: Learning to Drive in a New City from Aerial Traffic Monitoring | arXiv 2026 | - | - |
 ||
 | `BDD100K` | [![arXiv](https://img.shields.io/badge/arXiv-1805.04687-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1805.04687)<br>BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://bair.berkeley.edu/blog/2018/05/30/bdd/) | [![GitHub](https://img.shields.io/github/stars/bdd100k/bdd100k)](https://github.com/bdd100k/bdd100k) |
 | `nuScenes` | [![arXiv](https://img.shields.io/badge/arXiv-1903.11027-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1903.11027)<br>nuScenes: A Multimodal Dataset for Autonomous Driving | CVPR 2020 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.nuscenes.org/) | - |
@@ -459,6 +475,12 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Dataset | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
+| `CAViAR` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19380-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19380)<br>CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios | ECCV 2026 | - | - |
+| `V2XBench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21032-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21032)<br>Roadside-Cooperative Autonomous Driving: From Data Platform to Vision-Language End-to-End Reasoning | arXiv 2026 | - | - |
+| `SIREN-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24094-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24094)<br>SIREN-Bench: Behavior-Driven Generation and Evaluation of Emergency-Vehicle Interactions | arXiv 2026 | - | - |
+| `DriveDegrade` | [![arXiv](https://img.shields.io/badge/arXiv-2608.29005-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.29005)<br>A Degradation-Tolerance Benchmark for Camera-Only End-to-End Driving | arXiv 2026 | - | - |
+| `CVaR-Clearance` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26533-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26533)<br>Barrier Function Conformal Safety Clearance Certification with CVaR for Driving Trajectory Selection | arXiv 2026 | - | - |
+| `Planning-Oriented E2E` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20111-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20111)<br>Planning-Oriented End-to-End Autonomous Driving: Architectures, Evaluation, and Emerging Paradigms | arXiv 2026 | - | - |
 ||
 | `BDD-X` | [![arXiv](https://img.shields.io/badge/arXiv-1807.11546-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/1807.11546)<br>Textual Explanations for Self-Driving Vehicles | ECCV 2018 | - | [![GitHub](https://img.shields.io/github/stars/JinkyuKimUCB/BDD-X-dataset)](https://github.com/JinkyuKimUCB/BDD-X-dataset) |
 | `Talk2Car` | [![IEEE](https://img.shields.io/badge/IEEE-2022-b31b1b?style=flat-square)](https://ieeexplore.ieee.org/document/9961196)<br>Talk2Car: Predicting Physical Trajectories for Natural Language Commands | IEEE Access 2022 | - | [![GitHub](https://img.shields.io/github/stars/ThierryDeruyttere/Talk2Car-Trajectory)](https://github.com/ThierryDeruyttere/Talk2Car-Trajectory) |
