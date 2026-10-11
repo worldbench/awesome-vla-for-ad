@@ -140,6 +140,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Herding` | [![arXiv](https://img.shields.io/badge/arXiv-2608.11451-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.11451)<br>Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards | arXiv 2026 | - | - |
 | `VG-SAF` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24366-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24366)<br>Variance-Guided Spatial Attention Fusion for Robust End-to-End Driving under Asymmetric Sensor Degradation | arXiv 2026 | - | - |
 ||
+| `ViRA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.09695-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.09695)<br>Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving? | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/OpenDriveLab/ViRA)](https://github.com/OpenDriveLab/ViRA) |
+
 
 
 ### :three: Image-Based World Models
@@ -259,6 +261,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `World4Scorer` | [![arXiv](https://img.shields.io/badge/arXiv-2609.36438-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.36438)<br>World4Scorer: Outcome-Grounded World Modeling for Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://guobapei.github.io/World4Scorer/) | [![GitHub](https://img.shields.io/github/stars/GuobaPei/World4Scorer)](https://github.com/GuobaPei/World4Scorer) |
 | `ReWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.39245-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.39245)<br>ReWAM: Reciprocal World Action Models for Interactive Autonomous Driving | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/LeapWM/rewam)](https://github.com/LeapWM/rewam) |
 ||
+| `VGGTWorld-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11161-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11161)<br>VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving | arXiv 2026 | - | - |
+
 
 
 
@@ -338,6 +342,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `MVPruner` | [![arXiv](https://img.shields.io/badge/arXiv-2606.27660-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.27660)<br>MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving | arXiv 2026 | - | - |
 | `FocusDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.33190-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.33190)<br>FocusDrive: Reasoning with Visual Focus for Autonomous Driving | arXiv 2026 | - | - |
 ||
+| `GeoCoTDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2610.10390-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.10390)<br>Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/TabGuigui/GeoCoTDrive)](https://github.com/TabGuigui/GeoCoTDrive) |
+
 
 
 ### :two: Numerical Action Generator
@@ -593,6 +599,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `doPlan` | [![arXiv](https://img.shields.io/badge/arXiv-2609.38028-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.38028)<br>doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/Mi3-Lab/doPlan)](https://github.com/Mi3-Lab/doPlan) |
 | `TrafficSignBench` | [![arXiv](https://img.shields.io/badge/arXiv-2609.38463-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.38463)<br>TrafficSignBench: Rule-Centric Closed-Loop Evaluation of Traffic-Sign Compliance in Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://huggingface.co/datasets/emb-ai/traffic-sign-bench) | [![GitHub](https://img.shields.io/github/stars/emb-ai/traffic-sign-bench)](https://github.com/emb-ai/traffic-sign-bench) |
 ||
+| `DrivingBench` | [![arXiv](https://img.shields.io/badge/arXiv-2609.38948-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.38948)<br>DrivingBench: Can Vision-Language Models Drive a Toyota Corolla? | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://drivingbench.com/) | [![GitHub](https://img.shields.io/github/stars/aditya-ramabadran/drivingbench_harness_v1)](https://github.com/aditya-ramabadran/drivingbench_harness_v1) |
+
 
 
 
@@ -624,4 +632,4 @@ If you find this work helpful for your research, please kindly consider citing o
 | `VLM Reliability` | [![arXiv](https://img.shields.io/badge/arXiv-2610.01531-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.01531)<br>Towards Reliable Vision-Language Models for Autonomous Driving | arXiv 2026 | - | - |
 ||
 
-*Last updated: October 4, 2026.*
+*Last updated: October 11, 2026.*
