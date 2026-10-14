@@ -265,6 +265,7 @@ If you find this work helpful for your research, please kindly consider citing o
 ||
 | `VGGTWorld-VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11161-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11161)<br>VGGTWorld-VLA: Intent-Conditioned 3D World Evolution for Autonomous Driving | arXiv 2026 | - | - |
 | `PlanWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.11382-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.11382)<br>PlanWAM: Planning-Shaped Future Representations for End-to-End Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://jinchan9.github.io/PlanWAM_project_page) | [![GitHub](https://img.shields.io/github/stars/jinchan9/PlanWAM)](https://github.com/jinchan9/PlanWAM) |
+| `MORE` | [![arXiv](https://img.shields.io/badge/arXiv-2610.14871-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.14871)<br>MORE: Learning Motion-Oriented Registers for Driving World Models and Planning | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/Cyril-gyd/MORE)](https://github.com/Cyril-gyd/MORE)<br>Release pending |
 
 
 
@@ -642,6 +643,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `Metric Validity` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34440-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34440)<br>When the Score Becomes the Target: Rethinking Metric Validity in Autonomous Driving | arXiv 2026 | - | - |
 | `Decide-Then-Explain` | [![arXiv](https://img.shields.io/badge/arXiv-2609.34794-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.34794)<br>Where Do Embodied Decisions Come From? Rethinking Latent and Explicit Reasoning | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/ocean-luna/openvla-decide-then-explain)](https://github.com/ocean-luna/openvla-decide-then-explain) |
 | `VLM Reliability` | [![arXiv](https://img.shields.io/badge/arXiv-2610.01531-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.01531)<br>Towards Reliable Vision-Language Models for Autonomous Driving | arXiv 2026 | - | - |
+| `Drive3R` | [![arXiv](https://img.shields.io/badge/arXiv-2610.15112-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.15112)<br>Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://silence-ai423.github.io/Drive3R/) | [![GitHub](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/Drive3R)](https://github.com/AutoLab-SAI-SJTU/Drive3R) |
 ||
 
-*Last updated: October 11, 2026.*
+*Last updated: October 14, 2026.*
