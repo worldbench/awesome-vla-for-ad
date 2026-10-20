@@ -219,7 +219,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Model | Paper | Venue | Website | GitHub | 
 |:-:|:-|:-:|:-:|:-:|
-| `DA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19085-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19085)<br>DA-WAM: Decision-Aligned Future Latents for Driving World Models | arXiv 2026 | - | - |
+| `DA-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19085-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19085)<br>DA-WAM: Decision-Aligned Future Latents for Driving World Models | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/LeapWM/da-wam)](https://github.com/LeapWM/da-wam) |
 | `WA-JEPA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20974-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20974)<br>WA-JEPA: Rethinking the Video JEPA Paradigm for World-Action Modeling in Autonomous Driving | arXiv 2026 | - | - |
 | `GeoWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23486-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23486)<br>GeoWAM: Visual Geometry World Action Models for Autonomous Driving | arXiv 2026 | - | - |
 | `RISE` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20430-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20430)<br>RISE: Adaptive Imagination for World Action Models | arXiv 2026 | - | - |
