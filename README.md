@@ -99,6 +99,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `DriveZero` | [![arXiv](https://img.shields.io/badge/arXiv-2609.06055-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.06055)<br>DriveZero: End-to-End Driving Beyond Human Demonstrations | arXiv 2026 | - | - |
 | `EMPlan` | [![arXiv](https://img.shields.io/badge/arXiv-2609.38862-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.38862)<br>Efficient Multi-Modal Planning with Reward-Guided Preference Optimization for Autonomous Driving | arXiv 2026 | - | - |
 | `RADP` | [![arXiv](https://img.shields.io/badge/arXiv-2609.39995-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.39995)<br>Learning to Explain While Planning: Rule-Aligned Diffusion Planning for Autonomous Driving | arXiv 2026 | - | - |
+| `TerraTransfer++` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30319-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30319)<br>TerraTransfer++: Demonstration-Free End-to-End Planner | arXiv 2026 | - | - |
 ||
 
 
@@ -447,6 +448,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `SafeDriveVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20609-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20609)<br>SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving | CoRL 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://safedrive-vla.github.io/SafeDriveVLA/) | [![GitHub](https://img.shields.io/github/stars/ASGuard-UCI/safedrive-vla)](https://github.com/ASGuard-UCI/safedrive-vla) |
 | `Scene-Adaptive VLA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24590-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24590)<br>Scene-Adaptive VLA: Efficient Autonomous Driving via Dynamic Layer Routing | NeurIPS 2026 | - | [![GitHub](https://img.shields.io/github/stars/yang-luvu/Scene-Adaptive-VLA)](https://github.com/yang-luvu/Scene-Adaptive-VLA) |
 | `LECDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25734-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25734)<br>Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving | NeurIPS 2026 | - | - |
+| `Cartender` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26390-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26390)<br>Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken | arXiv 2026 | - | - |
+| `Perceives but Doesn't Brake` | [![arXiv](https://img.shields.io/badge/arXiv-2610.28184-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.28184)<br>Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://matcercola18.github.io/pbdb/) | - |
 ||
 
 
@@ -661,6 +664,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `GeoFix` | [![arXiv](https://img.shields.io/badge/arXiv-2610.14293-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.14293)<br>GeoFix: Geometry Fixing for 4D Consistent Generation | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://yeobinhong.github.io/GeoFix/) | - |
 | `Drive3R` | [![arXiv](https://img.shields.io/badge/arXiv-2610.15112-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.15112)<br>Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://silence-ai423.github.io/Drive3R/) | [![GitHub](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/Drive3R)](https://github.com/AutoLab-SAI-SJTU/Drive3R) |
 | `Orbia` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20693-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20693)<br>Orbia: Do Generated Videos Form a Consistent 3D World? | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://orbia-bench.github.io/) | [![GitHub](https://img.shields.io/github/stars/worldbench/Orbia)](https://github.com/worldbench/Orbia) |
+| `Experience Memory Audit` | [![arXiv](https://img.shields.io/badge/arXiv-2610.27714-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.27714)<br>When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines | ACML 2026 | - | - |
+| `Reasoning-Action Coupling` | [![arXiv](https://img.shields.io/badge/arXiv-2610.30953-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.30953)<br>Measuring the Reasoning-Action Coupling in Driving Vision-Language-Action Models through Counterfactuals | arXiv 2026 | - | - |
 ||
 
 *Last updated: October 16, 2026.*
