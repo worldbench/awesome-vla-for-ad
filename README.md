@@ -188,6 +188,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `RoXDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.36851-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.36851)<br>RoXDrive: Closed-Loop Reinforcement Learning for End-to-End Autonomous Driving via Action-Faithful Rollouts | arXiv 2026 | - | - |
 | `PhysWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.37970-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.37970)<br>PhysWAM: Physically Consistent World Action Model for Autonomous Driving | arXiv 2026 | - | - |
 | `SV-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.03602-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.03602)<br>SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `DriveUniTok` | [![arXiv](https://img.shields.io/badge/arXiv-2610.35044-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.35044)<br>DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models | arXiv 2026 | - | - |
+| `OSWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.35850-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.35850)<br>OSWAM: An Effective World Action Model with One-Step Action Generation | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://gwenzhang.github.io/OSWAM/) | [![GitHub](https://img.shields.io/github/stars/PolyU-VCLab/OSWAM)](https://github.com/PolyU-VCLab/OSWAM) |
 ||
 
 
