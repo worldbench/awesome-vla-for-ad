@@ -190,6 +190,10 @@ If you find this work helpful for your research, please kindly consider citing o
 | `SV-WAM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.03602-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.03602)<br>SV-WAM: An Efficient Surround-View World-Action Model for End-to-End Autonomous Driving | arXiv 2026 | - | - |
 | `DriveUniTok` | [![arXiv](https://img.shields.io/badge/arXiv-2610.35044-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.35044)<br>DriveUniTok: A Unified Multimodal Tokenizer for Driving World-Action Models | arXiv 2026 | - | - |
 | `OSWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2610.35850-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.35850)<br>OSWAM: An Effective World Action Model with One-Step Action Generation | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://gwenzhang.github.io/OSWAM/) | [![GitHub](https://img.shields.io/github/stars/PolyU-VCLab/OSWAM)](https://github.com/PolyU-VCLab/OSWAM) |
+| `GuidedWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2611.07912-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.07912)<br>GuidedWAM: Training-Free Energy Guidance for World Action Models in Autonomous Driving | arXiv 2026 | - | - |
+| `NegWAM` | [![arXiv](https://img.shields.io/badge/arXiv-2611.08111-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.08111)<br>Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model | arXiv 2026 | - | [![GitHub](https://img.shields.io/github/stars/Zizizi-hao/NegWAM)](https://github.com/Zizizi-hao/NegWAM) |
+| `Neutral World Model` | [![arXiv](https://img.shields.io/badge/arXiv-2611.11516-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.11516)<br>Breaking survivorship bias in driving world models | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://zihaosheng.github.io/NWM/) | - |
+| `BirdDreams` | [![arXiv](https://img.shields.io/badge/arXiv-2611.14815-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.14815)<br>BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://research.nvidia.com/labs/sil/projects/birddreams/) | - |
 ||
 
 
@@ -278,6 +282,10 @@ If you find this work helpful for your research, please kindly consider citing o
 | `VITAL` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20604-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20604)<br>VITAL: From Visual Motion to Precise Action | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://worldbench.github.io/vital/) | [![GitHub](https://img.shields.io/github/stars/worldbench/VITAL)](https://github.com/worldbench/VITAL) |
 | `WAC` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22825-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22825)<br>World Action Critic (WAC) Model: Joint Foresight and Criticism for Policy Learning | arXiv 2026 | - | - |
 | `EvoAD` | [![arXiv](https://img.shields.io/badge/arXiv-2610.23886-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.23886)<br>EvoAD: Self-Evolving Autonomous Driving via Latent World-Model Guided Post-hoc Reflection | arXiv 2026 | - | - |
+| `INTERACT` | [![arXiv](https://img.shields.io/badge/arXiv-2611.02526-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.02526)<br>INTERACT: Learning Interaction-Aware World Dynamics from Driving Videos for Autonomous Driving | arXiv 2026 | - | - |
+| `RFWorld` | [![arXiv](https://img.shields.io/badge/arXiv-2611.05072-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.05072)<br>Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving | arXiv 2026 | - | - |
+| `Latent-WAM++` | [![arXiv](https://img.shields.io/badge/arXiv-2611.10632-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.10632)<br>Latent-WAM++: Shaping World and Action Representations for End-to-End Autonomous Driving | arXiv 2026 | - | - |
+| `ActWorld-JEPA` | [![arXiv](https://img.shields.io/badge/arXiv-2611.16579-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.16579)<br>ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://adept-thu.github.io/ActWorld-JEPA/) | [![GitHub](https://img.shields.io/github/stars/adept-thu/ActWorld-JEPA)](https://github.com/adept-thu/ActWorld-JEPA) |
 
 
 
@@ -360,6 +368,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `FocusDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2609.33190-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.33190)<br>FocusDrive: Reasoning with Visual Focus for Autonomous Driving | arXiv 2026 | - | - |
 ||
 | `GeoCoTDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2610.10390-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.10390)<br>Explicit Geometric Chain-of-Thought for Vision-Language-Action in Autonomous Driving | NeurIPS 2026 | - | [![GitHub](https://img.shields.io/github/stars/TabGuigui/GeoCoTDrive)](https://github.com/TabGuigui/GeoCoTDrive) |
+| `STEER` | [![arXiv](https://img.shields.io/badge/arXiv-2611.00718-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.00718)<br>STEER: Route-Aware Adaptive Reasoning for Autonomous Driving | NeurIPS 2026 | - | - |
+| `AutoVLA-D` | [![arXiv](https://img.shields.io/badge/arXiv-2611.12382-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.12382)<br>AutoVLA-D: Learn a Trajectory-Geometric Condition from Reasoning for Autonomous Driving VLA | NeurIPS 2026 | - | [![GitHub](https://img.shields.io/github/stars/ShivaTeam/AutoVLA-D)](https://github.com/ShivaTeam/AutoVLA-D) |
 
 
 
@@ -451,6 +461,8 @@ If you find this work helpful for your research, please kindly consider citing o
 | `LECDrive` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25734-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25734)<br>Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving | NeurIPS 2026 | - | - |
 | `Cartender` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26390-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26390)<br>Cartender: Verifiable Language-Conditioned Driving by Learning the Drives Not Taken | arXiv 2026 | - | - |
 | `Perceives but Doesn't Brake` | [![arXiv](https://img.shields.io/badge/arXiv-2610.28184-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.28184)<br>Perceives but Doesn't Brake: A Perception-Action Binding Gap in Reasoning Driving VLAs | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://matcercola18.github.io/pbdb/) | - |
+| `DriveFoundry` | [![arXiv](https://img.shields.io/badge/arXiv-2611.11532-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.11532)<br>DriveFoundry: Co-Evolving Data and Model for Efficient Closed-Loop Iteration in Autonomous Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://xiaomi-ev.github.io/Xiaomi-Drive-o1/) | - |
+| `DeltaForge` | [![arXiv](https://img.shields.io/badge/arXiv-2611.11856-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2611.11856)<br>DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving | arXiv 2026 | - | - |
 ||
 
 
@@ -497,6 +509,7 @@ If you find this work helpful for your research, please kindly consider citing o
 | `RCVLA` | [![arXiv](https://img.shields.io/badge/arXiv-2609.32681-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.32681)<br>RCVLA: 4D Radar-Grounded Semantic Reasoning and Trajectory Arbitration for Autonomous Driving | arXiv 2026 | - | - |
 | `AutoAgent0` | [![arXiv](https://img.shields.io/badge/arXiv-2610.18866-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.18866)<br>AutoAgent0: An Agentic Runtime for Safe Closed-Loop Driving | arXiv 2026 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://jiagengliu02.github.io/AutoAgent0/) | [![GitHub](https://img.shields.io/github/stars/jiagengliu02/AutoAgent0)](https://github.com/jiagengliu02/AutoAgent0) |
 | `SIGMA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.09520-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.09520)<br>Not All Uncertainty Matters: Simulation-in-the-Loop Fast-Slow Reasoning for Decision-Critical Autonomous Driving System | arXiv 2026 | - | - |
+| `DriveMind` | [![arXiv](https://img.shields.io/badge/arXiv-2610.32069-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.32069)<br>DriveMind: Mind-Evolving Belief Tracking for Closed-Loop Autonomous Driving | NeurIPS 2026 | - | [Repository (code forthcoming)](https://github.com/shiyannacl/drivemind) |
 ||
 
 
